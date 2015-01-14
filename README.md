@@ -23,10 +23,11 @@ Berikut ini merupakan list nama mahasiswa yang sudah mengumpulkan proposal tugas
 14. Nur Laily Kartiningsih - Sistem Pembelajaran Melalui Media Online (E-Learning) di Unmuh Jember
 15. Nida Komariah - Sistem Informasi Absensi Siswa Berbasis Web Dengan SMS Gateway di SMK N 5 Jember
 16. Ryan Febriyanto - Aplikasi Kesekretariatan di BEM FT Unmuh Jember
-17. Shibghotullah Azzam A.M. - Sistem Informasi Nilai Berbasis SMS Gateway D3 Unmuh Jember
-18. Tri Hendra Juniarto - Web Pendaftaran Alumni di SMA Muhammadiyah 3 Jember
-19. Vani Tri Agustian - Website Penjualan Komputer di Jaya Komputer Kencong
-20. Yulio Rizki - Sistem Informasi Akademik Sekolah Pada SMA Muhammadiyah 3 Jember
+17. Riski Suprayogi - Sistem Informasi Pemesanan Baju Konveksi UD. Cantik Collection
+18. Shibghotullah Azzam A.M. - Sistem Informasi Nilai Berbasis SMS Gateway D3 Unmuh Jember
+19. Tri Hendra Juniarto - Web Pendaftaran Alumni di SMA Muhammadiyah 3 Jember
+20. Vani Tri Agustian - Website Penjualan Komputer di Jaya Komputer Kencong
+21. Yulio Rizki - Sistem Informasi Akademik Sekolah Pada SMA Muhammadiyah 3 Jember
 
 Bagi yang tidak tercantum pada list diatas, kemungkinan judul proposalnya sama (cuma beda studi kasus), atau belum mengumpulkan hardcopy/softcopy, atau tidak disusun menggunakan LATEX.
 

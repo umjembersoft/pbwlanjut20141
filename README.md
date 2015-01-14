@@ -11,14 +11,20 @@ Berikut ini merupakan list nama mahasiswa yang sudah mengumpulkan proposal tugas
 2. Agus Andika Febriyanto - Sistem Pemasaran Berbasis Web
 3. Aji Dwi Kusman - Sistem Pengolah Data Pegawai di PTPN XII Afdelling Gambiran
 4. Awalia Wahyu Juwita - Aplikasi Pengobatan Pasien Berbasis SMS Gateway
-5. Elvriska Ayu Widianti - Penerapan Aplikasi Distribusi Informasi Berbasis SMS Gateway Pada HMI Jember
-6. Lintang Novitasari - Aplikasi Sistem Administrasi Cuti Online di PT. Prudential Life Assurance
-7. Lola Yunita Audiana - Aplikasi Objek Wisata Kabupaten Jember Berbasis Android
-8. M. Rizal Fahmi - Sistem Informasi Pendataan Inventaris Pada Madrasah Tsanawiyah Negeri Kencong
-9. Merry Apriliantono Putri - Aplikasi Pengolahan Administrasi dan Informasi Pemberitahuan BEM FT Unmuh Jember
-10. Shibghotullah Azzam A.M. - Sistem Informasi Nilai Berbasis SMS Gateway D3 Unmuh Jember
-11. Tri Hendra Juniarto - Web Pendaftaran Alumni di SMA Muhammadiyah 3 Jember
-12. Yulio Rizki - Sistem Informasi Akademik Sekolah Pada SMA Muhammadiyah 3 Jember
+5. Diah Silfiana - Sistem Informasi Rekam Data Medis di Klinik Kasih Ibu Kalisat
+6. Elvriska Ayu Widianti - Penerapan Aplikasi Distribusi Informasi Berbasis SMS Gateway Pada HMI Jember
+7. Iis Dahlia - Aplikasi Manajemen Surat Menggunakan Framework Codeigniter di Kantor PGRI Jember
+8. Lintang Novitasari - Aplikasi Sistem Administrasi Cuti Online di PT. Prudential Life Assurance
+9. Lola Yunita Audiana - Aplikasi Objek Wisata Kabupaten Jember Berbasis Android
+10. M. Rizal Fahmi - Sistem Informasi Pendataan Inventaris Pada Madrasah Tsanawiyah Negeri Kencong
+11. Merry Apriliantono Putri - Aplikasi Pengolahan Administrasi dan Informasi Pemberitahuan BEM FT Unmuh Jember
+12. Nida Komariah - Sistem Informasi Absensi Siswa Berbasis Web Dengan SMS Gateway di SMK N 5 Jember
+13. Shibghotullah Azzam A.M. - Sistem Informasi Nilai Berbasis SMS Gateway D3 Unmuh Jember
+14. Tri Hendra Juniarto - Web Pendaftaran Alumni di SMA Muhammadiyah 3 Jember
+15. Yulio Rizki - Sistem Informasi Akademik Sekolah Pada SMA Muhammadiyah 3 Jember
+
+Bagi yang tidak tercantum pada list diatas, kemungkinan judul proposalnya sama (cuma beda studi kasus), atau belum mengumpulkan hardcopy/softcopy, atau tidak disusun menggunakan LATEX.
+
 
 # Perhatian
 Semua file yang ada di repository ini boleh digunakan, disebarluaskan, dan diubah selama mencantumkan sumber aslinya (penulis). 

@@ -19,10 +19,15 @@ Berikut ini merupakan list nama mahasiswa yang sudah mengumpulkan proposal tugas
 10. Tri Hendra Juniarto - Web Pendaftaran Alumni di SMA Muhammadiyah 3 Jember
 11. Yulio Rizki - Sistem Informasi Akademik Sekolah Pada SMA Muhammadiyah 3 Jember
 
+# Perhatian
+Semua file yang ada di repository ini boleh digunakan, disebarluaskan, dan diubah selama mencantumkan sumber aslinya (penulis). 
+Keep Learning Keep Sharing.
+
 
 Semoga apa yang ada didalam repository ini akan bermanfaat untuk kita semua.
 
 Best Regards,
+
 
 
 

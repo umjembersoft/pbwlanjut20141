@@ -1,0 +1,534 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  14 JAN 2015 12:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ElvriskaAyuW_1200631031_Proposal.tex
+(./ElvriskaAyuW_1200631031_Proposal.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./jtetiproposalskripsi.cls
+Document Class: jtetiproposalskripsi 
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count79
+\U@D=\dimen102
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-bahasa/bahasai.ldf
+Language: bahasa 2008/03/15 v1.0l Bahasa Indonesia support from the babel syste
+m
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count80
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count81
+\Gm@cntv=\count82
+\c@Gm@tempcnt=\count83
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen113
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/nomencl/nomencl.sty
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen114
+\nom@tempdim=\dimen115
+\nomitemsep=\skip45
+)
+\@glossaryfile=\write3
+\openout3 = `ElvriskaAyuW_1200631031_Proposal.glo'.
+
+
+Writing glossary file ElvriskaAyuW_1200631031_Proposal.glo 
+) (./ElvriskaAyuW_1200631031_Proposal.aux
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+
+LaTeX Warning: Label `wsn' multiply defined.
+
+)
+\openout1 = `ElvriskaAyuW_1200631031_Proposal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 33.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen116
+\scratchbox=\box26
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen117
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks20
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* pass: disregarded the geometry package!
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=406.87448pt
+* \textheight=625.96062pt
+* \oddsidemargin=41.54121pt
+* \evensidemargin=41.54121pt
+* \topmargin=-25.6073pt
+* \headheight=12.0pt
+* \headsep=65.44142pt
+* \topskip=5.16667pt
+* \footskip=42.67912pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 35.
+<gambar/logoumj.png, id=1, 110.5731pt x 110.5731pt>
+File: gambar/logoumj.png Graphic file (type png)
+ <use gambar/logoumj.png>
+Package pdftex.def Info: gambar/logoumj.png used on input line 35.
+(pdftex.def)             Requested size: 110.57281pt x 110.57281pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./gamba
+r/logoumj.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 37.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 37.
+ (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Overfull \hbox (15.46408pt too wide) in paragraph at lines 37--37
+ [][] 
+ []
+
+
+Overfull \hbox (15.46408pt too wide) in paragraph at lines 37--37
+ [][] 
+ []
+
+[2] [3
+
+] (./ElvriskaAyuW_1200631031_Proposal.toc [4
+
+])
+\tf@toc=\write4
+\openout4 = `ElvriskaAyuW_1200631031_Proposal.toc'.
+
+ [5]
+BAB I.
+[1
+
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ [2] [3]
+BAB II.
+[4
+
+] <gambar/Struktur.jpg, id=34, 2007.75093pt x 3103.84593pt>
+File: gambar/Struktur.jpg Graphic file (type jpg)
+
+<use gambar/Struktur.jpg>
+Package pdftex.def Info: gambar/Struktur.jpg used on input line 129.
+(pdftex.def)             Requested size: 325.50082pt x 503.20865pt.
+ [5 <./gambar/Struktur.jpg>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ [6] [7]
+<gambar/koding.jpg, id=45, 293.59688pt x 130.23656pt>
+File: gambar/koding.jpg Graphic file (type jpg)
+ <use gambar/koding.jpg>
+Package pdftex.def Info: gambar/koding.jpg used on input line 173.
+(pdftex.def)             Requested size: 244.12717pt x 108.29305pt.
+
+[8 <./gambar/koding.jpg>]
+<gambar/sms_gateway.jpg, id=50, 272.51813pt x 130.98938pt>
+File: gambar/sms_gateway.jpg Graphic file (type jpg)
+
+<use gambar/sms_gateway.jpg>
+Package pdftex.def Info: gambar/sms_gateway.jpg used on input line 214.
+(pdftex.def)             Requested size: 244.12717pt x 117.34167pt.
+ [9]
+<gambar/Pengaplikasian_Gateway.jpg, id=54, 320.69812pt x 158.84344pt>
+File: gambar/Pengaplikasian_Gateway.jpg Graphic file (type jpg)
+
+<use gambar/Pengaplikasian_Gateway.jpg>
+Package pdftex.def Info: gambar/Pengaplikasian_Gateway.jpg used on input line 2
+23.
+(pdftex.def)             Requested size: 244.12717pt x 120.921pt.
+ [10 <./gambar/sms_gateway.jpg> <./gambar/Pengaplikasian_Gateway.jpg>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+ [11]
+<gambar/Simbol-ERD.jpg, id=61, 398.23781pt x 362.10281pt>
+File: gambar/Simbol-ERD.jpg Graphic file (type jpg)
+
+<use gambar/Simbol-ERD.jpg>
+Package pdftex.def Info: gambar/Simbol-ERD.jpg used on input line 262.
+(pdftex.def)             Requested size: 325.50082pt x 295.97588pt.
+ [12 <./gambar/Simbol-ERD.jpg>] [13]
+<gambar/CDM.jpg, id=68, 356.0803pt x 301.125pt>
+File: gambar/CDM.jpg Graphic file (type jpg)
+ <use gambar/CDM.jpg>
+Package pdftex.def Info: gambar/CDM.jpg used on input line 308.
+(pdftex.def)             Requested size: 325.50082pt x 275.27394pt.
+ [14 <./gambar/CDM.jpg>] <gambar/PDM.jpg, id=73, 361.35pt x 270.25969pt>
+File: gambar/PDM.jpg Graphic file (type jpg)
+
+<use gambar/PDM.jpg>
+Package pdftex.def Info: gambar/PDM.jpg used on input line 335.
+(pdftex.def)             Requested size: 325.50082pt x 243.45003pt.
+ [15] [16 <./gambar/PDM.jpg>]
+<gambar/Simbol-Flowchart.jpg, id=80, 451.6875pt x 649.67719pt>
+File: gambar/Simbol-Flowchart.jpg Graphic file (type jpg)
+
+<use gambar/Simbol-Flowchart.jpg>
+Package pdftex.def Info: gambar/Simbol-Flowchart.jpg used on input line 348.
+(pdftex.def)             Requested size: 325.50082pt x 468.2034pt.
+ [17 <./gambar/Simbol-Flowchart.jpg>]
+<gambar/Eksternal.jpg, id=84, 213.04594pt x 84.315pt>
+File: gambar/Eksternal.jpg Graphic file (type jpg)
+
+<use gambar/Eksternal.jpg>
+Package pdftex.def Info: gambar/Eksternal.jpg used on input line 365.
+(pdftex.def)             Requested size: 244.12717pt x 96.62183pt.
+
+<gambar/Arus-Data.jpg, id=85, 214.55156pt x 48.93282pt>
+File: gambar/Arus-Data.jpg Graphic file (type jpg)
+
+<use gambar/Arus-Data.jpg>
+Package pdftex.def Info: gambar/Arus-Data.jpg used on input line 376.
+(pdftex.def)             Requested size: 244.12717pt x 55.67868pt.
+ [18 <./gambar/Eksternal.jpg> <./gambar/Arus-Data.jpg>] <gambar/Proses.jpg, id=
+89, 223.58531pt x 106.89937pt>
+File: gambar/Proses.jpg Graphic file (type jpg)
+
+<use gambar/Proses.jpg>
+Package pdftex.def Info: gambar/Proses.jpg used on input line 387.
+(pdftex.def)             Requested size: 162.7473pt x 77.81404pt.
+ <gambar/Simpanan.jpg, id=90, 93.34875pt x 33.12375pt>
+File: gambar/Simpanan.jpg Graphic file (type jpg)
+
+<use gambar/Simpanan.jpg>
+Package pdftex.def Info: gambar/Simpanan.jpg used on input line 396.
+(pdftex.def)             Requested size: 162.7473pt x 57.75159pt.
+ [19 <./gambar/Proses.jpg> <./gambar/Simpanan.jpg>]
+BAB III.
+<gambar/BaganMetode.jpg, id=94, 362.10281pt x 372.64218pt>
+File: gambar/BaganMetode.jpg Graphic file (type jpg)
+
+<use gambar/BaganMetode.jpg>
+Package pdftex.def Info: gambar/BaganMetode.jpg used on input line 410.
+(pdftex.def)             Requested size: 406.87448pt x 418.72104pt.
+ [20
+
+ <./gambar/BaganMetode.jpg>]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Overfull \hbox (11.20052pt too wide) in paragraph at lines 434--435
+[]\OT1/ptm/m/n/12 yaitu ana-li-sa meng-am-bark-an de-ngan kata-kata atau ka-li-
+mat yang dipisah-pisahkan
+ []
+
+[21]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ì in font ptmr7t!
+
+Overfull \hbox (4.55954pt too wide) in paragraph at lines 465--466
+[]\OT1/ptm/m/n/12 Dalam im-ple-men-ta-si sis-tem di-la-kuk-an un-tuk me-ne-rapk
+-an per-ang-kat lu-nak yang
+ []
+
+[22]
+Overfull \hbox (4.3376pt too wide) in paragraph at lines 484--485
+[]\OT1/ptm/m/n/12 Adalah su-a-tu ke-gi-at-an un-tuk meng-e-ta-hui ke-sa-lah-an 
+atau ke-ku-rang-an yang mung-
+ []
+
+<gambar/Flowchart_sistem.jpg, id=105, 377.91188pt x 590.95781pt>
+File: gambar/Flowchart_sistem.jpg Graphic file (type jpg)
+
+<use gambar/Flowchart_sistem.jpg>
+Package pdftex.def Info: gambar/Flowchart_sistem.jpg used on input line 495.
+(pdftex.def)             Requested size: 325.50082pt x 508.9983pt.
+ [23] [24 <./gambar/Flowchart_sistem.jpg>]
+Missing character: There is no ¬ in font ptmr7t!
+Missing character: There is no Æ in font ptmr7t!
+Missing character: There is no ¬ in font ptmr7t!
+Missing character: There is no Æ in font ptmr7t!
+
+[25] <gambar/Jadwal-Ayu.jpg, id=115, 472.01344pt x 134.00063pt>
+File: gambar/Jadwal-Ayu.jpg Graphic file (type jpg)
+
+<use gambar/Jadwal-Ayu.jpg>
+Package pdftex.def Info: gambar/Jadwal-Ayu.jpg used on input line 547.
+(pdftex.def)             Requested size: 406.87448pt x 115.51021pt.
+ [26 <./gambar/Jadwal-Ayu.jpg>]
+(./ElvriskaAyuW_1200631031_Proposal.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3141 strings out of 493117
+ 45191 string characters out of 6135433
+ 120651 words of memory out of 5000000
+ 6524 multiletter control sequences out of 15000+600000
+ 13722 words of font info for 35 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,8n,25p,2012b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
+4/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-di
+st/fonts/type1/urw/times/utmri8a.pfb>
+Output written on ElvriskaAyuW_1200631031_Proposal.pdf (31 pages, 1325562 bytes
+).
+PDF statistics:
+ 133 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

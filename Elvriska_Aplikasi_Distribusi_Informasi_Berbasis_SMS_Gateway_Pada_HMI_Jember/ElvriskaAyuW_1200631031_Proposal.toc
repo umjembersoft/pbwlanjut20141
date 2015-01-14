@@ -1,0 +1,45 @@
+\select@language {bahasa}
+\select@language {bahasa}
+\contentsline {chapter}{ABSTRAK}{iii}
+\contentsline {chapter}{DAFTAR ISI}{v}
+\select@language {bahasa}
+\contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}
+\contentsline {section}{\numberline {1.1}Latar Belakang}{1}
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{3}
+\contentsline {section}{\numberline {1.4}Tujuan}{3}
+\contentsline {section}{\numberline {1.5}Manfaat}{3}
+\contentsline {chapter}{\numberline {II}TINJAUAN PUSTAKA}{4}
+\contentsline {section}{\numberline {2.1}Sejarah Himpunan Mahasiswa Islam (HMI)}{4}
+\contentsline {subsection}{\numberline {2.1.1}Struktur Organisasi}{5}
+\contentsline {section}{\numberline {2.2}Tinjauan Umum Sistem Infomasi}{6}
+\contentsline {subsection}{\numberline {2.2.1}Sistem Informasi}{6}
+\contentsline {subsection}{\numberline {2.2.2}Distribusi Informasi}{6}
+\contentsline {section}{\numberline {2.3}Tinjauan Singkat Perangkat Lunak}{7}
+\contentsline {subsection}{\numberline {2.3.1}Software}{7}
+\contentsline {subsection}{\numberline {2.3.2}Aplikasi}{7}
+\contentsline {subsection}{\numberline {2.3.3}Java}{8}
+\contentsline {section}{\numberline {2.4}SMS Gateway}{9}
+\contentsline {section}{\numberline {2.5}Database}{11}
+\contentsline {subsection}{\numberline {2.5.1}MySQL}{11}
+\contentsline {subsection}{\numberline {2.5.2}Entity Relationship Diagram (ERD)}{12}
+\contentsline {subsection}{\numberline {2.5.3}Conceptual Data Model (CDM)}{13}
+\contentsline {subsection}{\numberline {2.5.4}Physical Data Model (PDM)}{15}
+\contentsline {section}{\numberline {2.6}Tinjauan Umum Tools Perancangan Sistem}{16}
+\contentsline {subsection}{\numberline {2.6.1}System Flowchart}{16}
+\contentsline {subsection}{\numberline {2.6.2}Data Flow Diagram (DFD)}{17}
+\contentsline {chapter}{\numberline {III}METODOLOGI PENELITIAN}{20}
+\contentsline {section}{\numberline {3.1}Metode Penelitian}{20}
+\contentsline {subsection}{\numberline {3.1.1}Studi Literatur}{21}
+\contentsline {subsection}{\numberline {3.1.2}Pengumpulan Data}{21}
+\contentsline {subsection}{\numberline {3.1.3}Analisis Data}{21}
+\contentsline {subsection}{\numberline {3.1.4}Optimasi Data}{22}
+\contentsline {subsection}{\numberline {3.1.5}Perancangan Sistem}{22}
+\contentsline {subsection}{\numberline {3.1.6}Implementasi}{22}
+\contentsline {subsection}{\numberline {3.1.7}Pelaporan}{23}
+\contentsline {section}{\numberline {3.2}Desain Sistem}{23}
+\contentsline {section}{\numberline {3.3}Alat Bantu}{25}
+\contentsline {subsection}{\numberline {3.3.1}Perangkat Keras (Hardware) }{25}
+\contentsline {subsection}{\numberline {3.3.2}Perangkat Lunak}{26}
+\contentsline {section}{\numberline {3.4}Pengujian}{26}
+\contentsline {section}{\numberline {3.5}Rencana Jadwal Penulisan/Kegiatan}{26}

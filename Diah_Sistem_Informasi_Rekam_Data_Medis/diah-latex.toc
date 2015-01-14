@@ -1,0 +1,36 @@
+\select@language {bahasa}
+\select@language {bahasa}
+\contentsline {chapter}{ABSTRAK}{iii}
+\contentsline {chapter}{DAFTAR ISI}{v}
+\select@language {bahasa}
+\contentsline {chapter}{\numberline {I}PENDAHULUAN}{1}
+\contentsline {section}{\numberline {1.1}Latar Belakang Masalah}{1}
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{1}
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{2}
+\contentsline {section}{\numberline {1.4}Tujuan Penelitian}{2}
+\contentsline {section}{\numberline {1.5}Manfaat Penelitian}{2}
+\contentsline {section}{\numberline {1.6}Metodelogi Penelitian}{3}
+\contentsline {section}{\numberline {1.7}Sistematika Penulisan}{3}
+\contentsline {chapter}{\numberline {II}LANDASAN TEORI}{4}
+\contentsline {section}{\numberline {2.1}Pengertian Sistem Informasi}{4}
+\contentsline {section}{\numberline {2.2}Pengertian Klinik}{4}
+\contentsline {section}{\numberline {2.3}Bahasa Pemrograman Visual Basic}{4}
+\contentsline {section}{\numberline {2.4}Basis Data}{5}
+\contentsline {section}{\numberline {2.5}Tujuan Basis Data}{6}
+\contentsline {section}{\numberline {2.6}Kegunaan Basis Data}{6}
+\contentsline {section}{\numberline {2.7}Oracle}{6}
+\contentsline {chapter}{\numberline {III}METODOLOGI PENELITIAN}{8}
+\contentsline {section}{\numberline {3.1}Perangkat Perancangan}{8}
+\contentsline {subsection}{\numberline {3.1.1}Perangkat Keras}{8}
+\contentsline {subsection}{\numberline {3.1.2}Perangkat Lunak}{8}
+\contentsline {section}{\numberline {3.2}Metode Pengumpulan Data}{8}
+\contentsline {subsection}{\numberline {3.2.1}Observation atau Pengamatan}{8}
+\contentsline {subsection}{\numberline {3.2.2}lnterview atau Wawancara}{9}
+\contentsline {subsection}{\numberline {3.2.3}Tinjauan Pustaka}{9}
+\contentsline {section}{\numberline {3.3}Identifikasi Masalah}{9}
+\contentsline {section}{\numberline {3.4}Analisis Kebutuhan Data}{9}
+\contentsline {section}{\numberline {3.5}Analisa Kebutuhan Proses}{10}
+\contentsline {section}{\numberline {3.6}Use Case Diagram}{11}
+\contentsline {section}{\numberline {3.7}Class Diagram Class}{11}
+\contentsline {section}{\numberline {3.8}Jadwal Kegiatan}{12}
+\contentsline {chapter}{DAFTAR PUSTAKA}{13}

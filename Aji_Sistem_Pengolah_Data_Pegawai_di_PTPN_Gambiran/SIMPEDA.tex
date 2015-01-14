@@ -1,0 +1,319 @@
+
+\documentclass{jtetiproposalskripsi}
+
+%-----------------------------------------------------------------
+%Disini awal masukan untuk data proposal skripsi
+%-----------------------------------------------------------------
+\titleind{SISTEM PENGOLAH DATA PEGAWAI DI PTPN. XII AFDELLING GAMBIRAN}
+\fullname{AJI DWI KUSMAN}
+
+\idnum{1200631034}
+
+\approvaldate{14 Januari 2015}
+
+\degree{Sarjana Komputer}
+
+\yearsubmit{2015}
+
+\program{Manajemen Informatika}
+
+\headprogram{Bagus Setya Rintyarna, S.T, M.Kom}
+
+%\dept{Manajemen Informatika dan Teknik Informatika}
+
+\firstsupervisor{Triawan Adi Cahyanto, M.Kom}
+\firstnip{12 03 719}
+
+\secondsupervisor{Bagus Setya Rintyarna, S.T, M.Kom}
+\secondnip{09 03 521}
+
+
+%-----------------------------------------------------------------
+%Disini akhir masukan untuk data proposal skripsi
+%-----------------------------------------------------------------
+
+\begin{document}
+
+\cover
+
+\approvalpage
+
+%-----------------------------------------------------------------
+%Disini akhir masukan untuk muka skripsi
+%-----------------------------------------------------------------
+
+%-----------------------------------------------------------------
+%Disini awal masukan Intisari
+%-----------------------------------------------------------------
+\begin{abstractind}
+Pada saat era globalisasi sekarang ini, perusahaan harus mampu menghadapi persaingan bebas yang terjadi. Untuk itu semua sumber daya perusahaan harus dapat dikerahkan secara maksimal dan professional untuk mendukung keberhasilan perusahaan. Keberhasilan perusahaan sangat tergantung pada keberhasilan manajemen dalam melaksanakan pekerjaannya. Keberhasilan manajemen perusahaan juga tergantung pada tersedianya informasi yang relevan dari pengolahan data yang tepat. Agar pekerjaan informasi dapat ditangani secara sistematis dan praktis perlu adanya manajemen sistem informasi. 
+
+Dalam kenyataannya pada kebanyakan perusaahaan yang ada berusaha untuk penanganan manajemen tenaga kerjanya, berusaha secara sistematik semuanya menggunakan sistem komputerisasi, tetapi pada subsistem penerimaan pegawainya masih manual dan belum menggunakan database. Dimana calon pelamar yang datang harus melalui beberapa tahapan yang ada di perusahaan. Setelah pihak perusahaan memanggil para calon karyawan untuk mengikuti test-test yang telah disiapkan, pertama-tama mereka harus mengisi form yang telah disediakan perusahaan. Untuk selanjutnya calon karyawan mengikuti test dan beberapa tahapan yang telah disiapkan. Tahapan-tahapannya antara lain adalah test tulis yang kemudian dilanjutkan dengan test wawancara dan test skill. Karena dalam penerimaan karyawan masih menggunakan metode manual secara tertulis sehingga perlu perancangan sistem informasi secara komputerisasi kepegawaian. Agar dalam proses penerimaannya terstruktur secara teratur.
+
+Melihat kondisi tersebut maka sistem ini diharapkan menjadi solusi bagi perusahaan. Perancangan sistem informasi merupakan solusi yang tepat dalam memudahkan perusahaan dalam penerimaan karyawan. Dengan adanya sistem informasi penerimaan pegawai yang diharapkan dapat membantu masalah-masalah yang ada. Sehingga dapat mempermudah proses pengambilan keputusan secara tepat, dengan tersedianya informasi-informasi yang tepat waktu, akurat dan relevan.
+
+
+\bigskip
+\textbf{Kata kunci} : \emph{Sistem Informasi Penerimaan Pegawai, Dekstop, Java.}
+\end{abstractind}
+%-----------------------------------------------------------------
+%Disini akhir masukan Intisari
+%-----------------------------------------------------------------
+
+\tableofcontents
+\addcontentsline{toc}{chapter}{DAFTAR ISI}
+\selectlanguage{bahasa}\clearpage\pagenumbering{arabic}\setcounter{page}{1}
+
+%-----------------------------------------------------------------
+%Disini awal masukan untuk Bab
+%-----------------------------------------------------------------
+\chapter{LATAR BELAKANG}
+
+\section{Latar Belakang Masalah}
+Pada saat era globalisasi sekarang ini, perusahaan harus mampu menghadapi persaingan bebas yang terjadi. Untuk itu semua sumber daya perusahaan harus dapat dikerahkan secara maksimal dan professional untuk mendukung keberhasilan perusahaan. Keberhasilan perusahaan sangat tergantung pada keberhasilan manajemen dalam pengelolaan dan melaksanakan pekerjaannya dengan baik. Keberhasilan manajemen perusahaan juga tergantung pada tersedianya informasi yang relevan dari pengolahan data yang tepat. Agar pekerjaan informasi dapat ditangani secara sistematis dan praktis perlu adanya manajemen sistem informasi yang baik dalam perusahaan. 
+
+Dalam kenyataannya pada perusahaan khususnya pada PTPN XII Afd Gambiran berusaha untuk penanganan manajemen tenaga kerjanya secara sistematik semuanya menggunakan sistim komputerisasi, tetapi pada sub sistem kepegawaiannya masih manual dan belum menggunakan database. Dimana calon pelamar yang datang harus melalui beberapa tahapan yang ada di perusahaan. Setelah pihak perusahaan memanggil para calon karyawan untuk mengikuti test-test yang telah disiapkan, pertama-tama mereka harus mengisi form yang telah disediakan perusahaan. Untuk selanjutnya calon karyawan mengikuti test dan beberapa tahapan yang telah disiapkan. Tahapan-tahapannya antara lain adalah test tulis yang kemudian dilanjutkan dengan test wawancara dan test skill. Begitu pula pada pengelolaan data karyawan seperti absensi dan hasil kerja karyawan masih menggunakan proses manual sehingga kurang efisien. Karena dalam pengolahan data karyawan pada PTPN XII Afd Gambiran masih menggunakan metode manual secara tertulis sehingga perlu perancangan sistem informasi secara komputerisasi kepegawaian. Sehingga dalam proses penerimaannya terstruktur secara teratur. 
+
+Melihat kondisi tersebut maka diupayakan menerapkan sistem komputerisasi modern, dengan harapan meningkatkan kinerja dalam mengolah dan memperoleh informasi yang lebih tepat sehingga dapat membantu proses kerja yang lebih baik. Perancangan sistem informasi merupakan solusi yang tepat dalam memudahkan perusahaan dalam pengolahan data karyawan. Dengan adanya sistem informasi manajemen kepegawaian yang diharapkan dapat membantu masalah-masalah yang ada. Sehingga dapat mempermudah proses pengambilan keputusan secara tepat, dengan tersedianya informasi-informasi yang tepat waktu, akurat dan relevan.
+
+\section{Perumusan Masalah}
+Berdasarkan uraian diatas maka dapat dirumuskan suatu permasalahan yaitu :  
+\begin{itemize}
+\item[1.] Bagaimanakah merancang sistem Informasi manajemen kepegawaian di PTPN XII Afd Gambiran ?
+\item[2.] Bagaimanakah dalam pengolahan data karyawan di PTPN XII Afd Gambiran  dapat terstruktur sehingga lebih efisien ?
+\end{itemize}
+
+\section{Batasan Masalah}
+
+Agar penelitian ini lebih tepat sasarannya maka diperlukan batasan – batasan sebagai berikut : 
+\begin{itemize}
+\item[1.] Perancangan sistem hanya dibatasi pada ruang lingkup kepegawaian
+\item[2.] Sistem hanya mengelola informasi tentang data – data karyawan seperti absen, gaji, dan hasil kerja.
+\end{itemize}
+
+\section{Tujuan Penelitian}
+Tujuan yang ingin dicapai dari penelitian ini adalah
+\begin{itemize}
+\item[1.] Merancang sistem informasi manajemen kepegawaian menjadi terintegrasi
+\item[2.] Membuat sistem secara terstruktur, sehingga bisa menjadi efektif, efisien, cepat serta akurat dengan mengembangakan sistem yang ada.
+\item[3.] Membuat sistem informasi agar informasi-informasi yang didapat lebih tepat sasaran sehingga mudah dikembangkan.
+\end{itemize}
+
+
+\section{Manfaat Penelitian}
+Dengan mengangkat permasalahan yang terjadi di PTPN XII Afd Gambiran maka manfaat yang didapat dari penelitian ini adalah :
+\begin{itemize}
+\item[1.] Bagi Perusahaan 
+\begin{itemize}
+\item[a.] Dengan adanya penerapan metode system informasi manajemen, pihak perusahaan dapat mengetahui bagaimana proses pengolahan data karyawan sehingga dapat dilakukan perbaikan jika memang diperlukan.
+\item[b.] Dengan adanya aplikasi ini dapat memudahkan absensi, penghitungan gaji, dan hasil kerja support system.
+\item[c.] Dengan adanya aplikasi ini dapat menghemat perhitungan waktu dalam melakukan proses pengolahan data karyawan.
+\item[d.] Meminimalisir kesalahan perhitungan dalam administrasi Sistem.
+\end{itemize}
+\item[2.] Bagi Mahasiswa 
+\begin{itemize}
+\item[a.] Sebagai bahan perbandingan teori dan praktek sehingga dapat menambah wawasan yang sangat penting bagi penulis dimasa mendatang. 
+\item[b.] Dapat mengembangkan pengetahuan yang selama ini hanya didapat secara teoritis untuk diterapkan dalam praktek nyata. 
+\end{itemize} 
+\item[3.] Bagi Universitas  
+Sebagai bahan perbendaharaan dan studi banding bagi mahasiswa dimasa yang akan datang.
+\end{itemize}
+
+%-------------------------------------------------------------------------------
+\chapter{TINJAUAN PUSTAKA DAN DASAR TEORI}               
+\section{Landasan Teori}
+\subsection{Sistem Informasi Manajemen }
+Sistem Informasi Manajemen adalah sistem perensanaan bagian bagian dari pengendalian internal suatu bisnis yang meliputi pemanfaatan manusia, dokumen, teknologi, dan prosedur oleh akuntansi manajemen untuk memecahkan masalah bisnis. Sistem informasi manajemen dibedakan dengan sistem informasi biasa karena SIM digunakan untuk menganalisis sistem informasi lain yang diterapkan pada aktivitas operasional organisasi. Secara akademis, istilah ini umumnya digunakan untuk merujuk pada kelompok metode manajemen informasi yang bertalian dengan otomasi atau dukungan terhadap pengambilan keputusan manusia, misalnya sistem pendukung keputusan, sistem pakar, dan sistem informasi eksekutif. Sistem Informasi Manajemen merupakan sistem yang menghasilkan hasil keluaran (output) dengan menggunakan masukan (input) dan berbagai proses yang diperlukan untuk memenuhi tujuan tertentu dalam suatu kegiatan manajemen.
+
+Menurut Kertahadi (1995) : Sistem Informasi Manajemen (SIM) dapat didefinisikan sebagai suatu alat untuk menyajikan informasi dengan cara sedemikian rupa sehingga bermanfaat bagi penerimanya...
+	
+Menurut Murdick dan Ross  (1993) : Tujuan sistem informasi manajemen adalah untuk menyajikan informasi guna pengambilan keputusan pada perencanaan, pemrakarsaan, pengorganisasian, pengendalian kegiatan operasi subsistem suatu perusahaan dan menyajikan sinergi organisasi pada proses.
+
+\subsection{Sistem}
+Menurut Jogiyanto (2005: 2) dalam buku yang berjudul Analisis dan Desain Sistem Informasi menjelaskan bahwa: “sistem adalah kumpulan dari elemen-elemen yang berinteraksi untuk mencapai suatu tujuan-tujuan tertentu”.
+
+Menurut Scott (1996) : mengatakan sistem terdiri dari unsur-unsur seperti masukan (input), pengolahan (processing), serta keluaran (output). Ciri pokok sistem menurut Gapspert ada empat, yaitu sistem itu beroperasi dalam suatu lingkungan, terdiri atas unsur-unsur, ditandai dengan saling berhubungan dan mempunyai satu fungsi atau tujuan utama.
+
+Menurut Mc. Leod (1995) : sistem sebagai sekelompok elemen-elemen yangterintegrasi dengan maksud yang sama untuk mencapai suatu tujuan. Sumberdaya mengalir dari elemen output dan untuk menjamin prosesnya berjalan dengan baik maka dihubungkan mekanisme control...
+
+Menurut Suradinata (dalam Schronderberg, 1996) : sistem adalah Komponen-komponen sistem saling berhubungan satu sama lainnya. Suatu keseluruhan tanpa memisahkan komponen pembentukannya. Bersama-sama dalam mencapai tujuan. Memiliki input dan output yang dibutuhkan oleh sistem lainnya. Terdapat proses yang merubah input menjadi output. Menunjukan adanya entropi terdapat aturan Terdapat subsistem yang lebih kecil, terdapat deferensiasi antar subsistem. Terdapat tujuan yang sama meskipun mulainya berbeda.
+
+
+\subsection{Sistem Informasi}
+Sistem Informasi adalah kombinasi dari teknologi informasi dan aktivitas orang yang menggunakan teknologi itu untuk mendukung operasi dan manajemen dalam arti yang sangat luas, istilah sistem informasi yang sering digunakan merujuk kepada interaksi antara orang, proses, algoritmik, data, dan teknologi.
+
+Menurut Jogiyanto (2005: 196) dalam  bukunya yang berjudul Analisis dan Desain Sistem Informasi  menyebutkan  bahwa:  “desain  sistem  dapat  didefinisikan  sebagai penggambaran, perencanaan, dan pembuatan sketsa atau pengaturan dari beberapa elemen yang terpisah dari satu kesatuan yang utuh dan berfungsi”.
+
+Menurut Stair (1992) : menjelaskan bahwa sistem informasi berbasis komputer (CBIS) dalam suatu organisasi terdiri dari komponen-komponen berikut :
+\begin{itemize}
+\item Hardware, yaitu perangkat keras komponen untuk melengkapi kegiatan memasukan data, memproses data dan keluaran data.
+\item Software, yaitu program dan instruksi yang diberikan kekomputer.
+\item Database, yaitu kumpulan data dan informasi yang diorganisasikan sedemikian rupa sehingga mudah diakses pengguna sistem informasi.
+\item Telekomunikasi, yaitu komunikasi yang menghubungkan antara pengguna sistem dengan sistem komputer secara bersama-sama kedalam suatu jaringan kerja yang efektif.
+\item Manusia, yaitu personil dari sistem informasi, meliputi manajer, analis, programmer, operator dan bertanggung jawab terhadap perawatan sistem.
+\item Prosedur, yakni tata cara yang meliputi strategi, kebijakan, metode dan peraturan-peraturan dalam menggunakan sistem informasi berbasis komputer.
+\end{itemize}
+
+Menurut Jogiyanto (2005: 11) dalam buku yang berjudul Analisis dan Desain Sistem Informasi, menyebutkan bahwa: Sistem informasi  adalah suatu sistem di dalam suatu organisasi yang mempertemukan kebutuhan pengolahan transaksi harian, mendukung operasi, bersifat manajerial dan kegiatan strategi dari suatu organisasi dan menyediakan pihak luar tertentu dengan laporan-laporan yang diperlukan.
+
+Menurut Ladjamudin (2005: 13) dalam buku yang berjudul Analisis dan Desain Sistem Informasi mendefinisikan bahwa: ”sisutem informasi adalah sekumpulan prosedur organisasi yang pada saat dilaksanakan akan memberikan informasi bagi pengambil keputusan  dan  atau untuk mengendalikan organisasi”.
+
+Menurut Yafie (2011: 194) sistem pengolahan informasi memiliki sistem fungsional seperti sistem perangkat keras, sistem pengoperasian (operating system), sistem komunikasi, dan sistem database. Ia juga memiliki subsistem seperti masukan pesanan dan penagihan, dan daftar gaji serta personalia...
+
+\subsection{Perancangan Sistem}
+Perancangan sistem adalah merancang atau mendesain suatu sistem yang baik, yang isinya adalah langkah-langkah operasi dalam proses pengolahan data dan prosedur untuk mendukung operasi sistem. 
+Menurut Santoso (2011: 19) : Proses-proses standard yang digunakan untuk membangun suatu sistem informasi meliputi langkah-langkah berikut ini: 
+\begin{itemize}
+\item Analisa 
+\item Desain 
+\item Implementasi 
+\item Maintenance 
+\end{itemize}
+Pada perkembangannya, proses-propses standar tadi dituangkan dalam satu metode yang dikenal dengan nama Systems Development Life Cycle (SDLC) yang merupakan metodologi umum dalam pengembangan sistem  yang menandai kemajuan dari usaha analisa dan desain.
+
+Menurut Santoso (2011: 18) : Analisa sistem didefinisikan sebagai bagaimana memahami dan menspesifikasi dengan detail apa yang harus dilakukan oleh sistem. Sedangkan sistem desain diartikan sebagai menjelaskan dengan detail bagaimana bagian-bagian dari sistem informasi di implementasikan. Analisa dan desain sistem informasi (ANSI) bisa didefinisikan sebagai: Proses organisasional kompleks dimana sistem informasi berbasis komputer di implementasikan.
+
+%-------------------------------------------------------------------------------
+\chapter{METODOLOGI}
+
+\section{Alat dan Bahan}
+Bahan yang digunakan dalam penelitian ini adalah:
+
+\vspace{-0.5cm}
+
+\begin{enumerate}[a.]
+\begin{singlespace}
+\itemsep0em
+\item Laptop/PC (2 unit),
+\item Sistem Operasi (Windows 8),
+\item Neatbean IDE 7.3 (Java),
+\item Powerdesigner (DFD Diagram)
+\item MySQL Workbench 6.0 (database),
+\item Wifi/Modem (Koneksi Internet).
+\end{singlespace}
+\end{enumerate}
+
+\section{Teknik Pengumpulan Data}
+
+Metode atau teknik pengumpulan data yang digunakan dalam penelitian ini adalah dengan menggunakan kuesioner, observasi, dan studi pustaka untuk mendapatkan data primer.
+\subsection{Kuesioner}
+
+Mencari pendapat seberapa perlunya \emph{sistem informasi} ini untuk digunakan, dengan melakukan penyebaran kuesioner untuk mengukur persepsi responden digunakan Skala Likert (Rangkuti, 1997). Pertanyaan dalam kuesioner dibuat dengan menggunakan skala 1-10 untuk mewakili pendapat dari responden. Nilai untuk skala tersebut adalah:
+\begin{itemize}
+\item[a.] Sangat Setuju 		: 9
+\item[b.] Setuju 				: 7
+\item[c.] Netral				: 8
+\item[d.] Tidak Setuju			: 3
+\item[e.] Sangat Tidak Setuju	: 1
+\end{itemize}
+Hipotesis:\\
+Berdasarkan  kerangka pemikiran diatas hipotesis yang diajukan dalam penelitian ini adalah:
+\begin{itemize}
+\item[1.] Diduga ada pengaruh kurangnya \emph{informasi} terhadap lemahnya kinerja pegawai di PTPN. XII Afd GAMBIRAN.
+\item[2.] Diduga ada pengaruh \emph{sistem informasi} yang kurang teratur terhadap lemahnya kinerja pegawai di PTPN. XII Afd GAMBIRAN.
+\end{itemize}
+\subsection{Observasi}
+Penulis melakukan observasi yaitu dengan melihat secara langsung cara kerja bagian yang terkait dengan pencatatan hasil-hasil kegiatan yang dilakukan, setelah itu penulis diberikan kesempatan untuk melihat sistem yang bekerja dalam pengolahan data dalam proses kepegawaian.
+\subsection{Studi Pustaka}
+Dalam penulisan ini tidak terlepas dari data-data yang terdapat dari buku-buku yang menjadi referensi seperti pedoman penulisan skripsi, diktat dan buku-buku lain yang dapat berhubungan dengan penyusunan perancangan sistem informasi kepegawaian ini sebagai landasan teori untuk menyelesaikan masalah yang dihadapi.
+
+\section{Langkah Kerja}
+Pada bagian ini memuat tahapan prosedur pengembangan yang akan digunakan. Tahapan-tahapan yang akan dilakukan dalam melakukan pengembangan, tergantung pada referensi yang digunakan. Namun secara garis besar, pada tahapan ini dibagi ke dalam 3 tahapan, yaitu:  
+\\ Tahap I: Studi Pendahuluan
+\\ Tahap II: Tahap Pengembangan Model
+\\ Tahap III: Tahap Evaluasi/Pengujian Model
+\subsection{Tahap I : Studi Pendahuluan}
+\begin{itemize}
+\item[a.] Tahap studi pendahuluan dilakukan dengan menerapkan pendekatan deskriptif kualitatif. Studi kualitatif diawali dengan studi literatur, kemudian studi lapangan tentang perancangan sistem informasi kepegawaian yang akan dikembangkan.
+\item[b.] Pada studi pendahuluan ini diakhiri dengan \emph{deskripsi dan analisis temuan (Model Faktual).}
+\end{itemize}
+\subsection{Tahap II : Tahap Pengembangan Sistem}
+Dalam tahap ini  hendaknya memuat butir-butir seperti berikut:\\
+\textbf{Model pengembangan:}\\
+Model pengembangan dapat berupa model prosedural, model konseptual, dan model teoretik. Model prosedural adalah model yang bersifat deskriptif, yaitu menggariskan langkah – langkah yang harus diikuti untuk menghasilkan sistem yang baik. Model konseptual adalah model yang bersifat analitis yang memberikan komponen – komponen sistem yang akan dikembangkan serta keterkaitan antar komponen. Model teoretik adalah model yang menunjukkan hubungan perubahan antar peristiwa. Dalam bagian ini perlu  dikemukakan secara  singkat  struktur  model yang digunakan sebagai dasar pengembangan sistem. Apabila model yang digunakan merupakan adaptasi dari model yang sudah ada, maka pemilihannya perlu disertai dengan alasan, komponen-komponen yang disesuaikan, serta kekuatan dan kelemahan sistem yang dibuat.\\
+\textbf{Validasi desain:}\\
+Validasi desain merupakan proses kegiatan untuk menilai apakah rancangan sistem lebih efektif atau tidak. Dalam tahap ini vadasi masih bersifat penilaian berdasarkan pemikiran rasional, belum fakta dilapangan. Validasi produk dapat dilakukan dengan menghadirkan beberapa pakar.\\
+\textbf{Revisi Desain:}\\
+Mengevaluasi jika ada kesalahan pada rancangan sistem yang dibuat\\
+\textbf{Uji coba produk:}\\
+Uji coba produk dimaksudkan untuk mengumpulkan data yang dapat digunakan sebagai dasar untuk menetapkan tingkat keefektifan, efisiensi, dan atau daya tarik dari sistem yang dihasilkan.\\
+Dalam butir uji coba sistem secara terbatas perlu diungkapkan:
+\begin{itemize} 
+\item[a.] Desain uji coba\\
+Secara lengkap, uji coba sistem pengembangan biasanya dilakukan melalui tiga tahapan, yaitu uji perseorangan, uji kelompok kecil, dan uji lapangan. Dalam kegiatan pengembangan, pengembang mungkin  hanya melewati dan berhenti pada tahap uji perseorangan, atau dilanjutkan dan berhenti sampai tahap uji kelompok kecil, atau sampai uji lapangan. Hal ini sangat tergantung pada urgensi dan data yang dibutuhkan melalui uji coba itu. Desain uji coba sistem bisa menggunakan desain yang biasa dipakai dalam penelitian kuantitatif, yaitu desain deskriptif atau eksperimental. Yang perlu diperhatikan adalah ketepatan memilih desain untuk tahapan tertentu (perseorangan, kelompok kecil, atau lapangan) agar data yang dibutuhkan untuk memperbaiki sistem dapat diperoleh secara lengkap. 
+\item[b.] Subjek uji coba \\
+Karakteristik subjek uji coba perlu diidentifikasi secara jelas dan lengkap, termasuk cara pemilihan subjek uji coba itu. Subjek uji coba sistem bisa terdiri dari ahli di bidang pengisian sistem, ahli di bidang perancangan sistem, dan atau sasaran pemakai sistem. Subjek uji coba yang ahli di bidang pengisian sistem dapat memiliki kualifikasi keahlian. Dan yang penting setiap subjek uji coba yang dilibatkan harus disertai identifikasi karekteristiknya secara jelas dan lengkap, tetapi terbatas dalam kaitannya dengan sistem yang dikembangkan. Teknik pemilihan subjek uji coba juga perlu dikemukakan agak rinci. 
+\item[c.] Jenis data  \\
+Uji coba sistem dimaksudkan untuk mengumpulkan data yang dapat digunakan sebagai dasar untuk menetapkan tingkat keefektifan, efisiensi, dan atau daya tarik dari sistem yang dihasilkan. Dalam konteks ini seiring pengembang tidak bermaksud mengumpulkan data secara lengkap yang  mencakup ketiganya. Bisa saja, sesuai dengan kebutuhan pengembangan, pengembang hanya melakukan uji coba untuk melihat daya tarik dari suatu sistem, atau hanya untuk melihat tingkat efisiensinya, atau keduanya. Penekanan pada efisiensi suatu pemecahan masalah akan membutuhkan data tentang efisiensi sistem yang  dikembangkan. Begitu pula halnya dengan penekanan pada keefektifan atau daya tarik. Atas dasar ini, maka jenis data yang perlu dikumpulkan harus disesuaikan dengan informasi apa yang dibutuhkan tentang produk yang dikembangkan itu. Paparan mengenai jenis data yang dikumpulkan hendaknya dikaitkan dengan desain dan pemilihan subjek uji coba. Jenis data tertentu, bagaimanapun juga, akan menuntut desain tertentu dan subjek uji coba tertentu.
+\item[d.] Instrumen pengumpulan data\\
+Bagian ini mengemukakan instrumen yang digunakan untuk mengumpulkan data seperti yang sudah dikemukakan dalam butir sebelumnya. Jika mengunakan instrumen yang sudah ada, maka  perlu ada uraian mengenai karakteristik instrumen itu, terutama mengenai keshahihan dan keterandalannya. Apabila instrumen  yang digunakan dikembangkan sendiri, maka prosedur pengembangannya juga perlu dijelaskan. 
+\item[e.] Teknik analisis data \\  
+Teknik dan prosedur analisis yang digunakan untuk menganalisis data uji coba dikemukakan dalam bagian ini dan disertai alasannya. Apabila teknik analisis yang digunakan sudah cukup dikenal, maka uraian tidak perlu rinci sekali. Akan tetapi, apabila teknik tersebut belum banyak dikenal, maka uraian perlu lebih rinci.
+\end{itemize}
+\textbf{Revisi Sistem:}\\
+Revisi Sistem ini dilakukan apabila dalam pemakaian kondisi nyata terdapat kekurangan dan kelemahan. \\
+\textbf{Evaluasi dan Penyempurnaan}\\
+\textbf{Model Hipotetik} (Model akhir hasil revisi pada tahap pengembangan model).
+\subsection{Tahap III : Tahap Evaluasi atau Pengujian Model}
+Setelah pengujian terhadap sistem berhasil, maka selanjutnya sistem tersebut diterapkan dalam kondisi nyata untuk lingkup yang lebih luas. Dalam tahap ini, digunakan metode eksperimen. Setelah pngujian model, masih dimungkinkan ada revisi sistem, kemudian barulah menjadi MODEL FINAL, yang siap untuk DISEMINASI.
+\newpage
+\section{Flowchart Proposal}
+\begin{figure}[h]
+\centering 
+ \includegraphics[width=0.7\textwidth]{gambar/1}  
+ \caption{Tampilan Flowchart Pembuatan Proposal}
+\end{figure}
+\newpage
+\section{Flowchart Pengembangan Sistem}
+\begin{figure}[h]
+\centering 
+ \includegraphics[width=1\textwidth]{gambar/2}  
+ \caption{Tampilan Flowchart Pengembangan Sistem}
+\end{figure}
+\newpage
+\section{Jadwal Kegiatan}
+Penelitian direncanakan akan dilaksanakan selama empat bulan. Rincian rencana jadwal penelitian dicantumkan dalam tabel berikut.
+
+\begin{center}
+Tabel 3.1. Jadwal Penelitian.
+\end{center}
+\vspace{-0.5cm}
+\begin{figure}[ht!]
+  \centering
+    \includegraphics[width=13cm]{gambar/3}
+\end{figure}
+
+%-----------------------------------------------------------------
+%Disini akhir masukan Bab
+%-----------------------------------------------------------------
+
+%-----------------------------------------------------------------
+%Disini awal masukan untuk Daftar Pustaka
+%-----------------------------------------------------------------
+%%\nocite{Abel2010,Guerbas201350}
+%%\bibliography{research-plan}
+%%\bibliographystyle{plainnat}
+\begin{thebibliography}{9}
+
+\bibitem[satu(2013)]{satu01}
+Abdul Kadir. Dasar Pemrograman Java 2, Yogyakarta : Andi, 2004
+
+\bibitem[dua(2013)]{dua02}
+Jogiyanto HM. Analisis Dan Desain  Sistem Informasi, Yogyakarta : Andi, 2005
+
+\bibitem[tiga(2013)]{tiga03}
+Prabowo Pudja Widodo. Menggunakan UML (Unified Modeling Language), Informatika Bandung : Indonesia, 2011
+
+\bibitem[empat(2013)]{empat04}
+Dokumen online, www.wikipedia.com/sistem-informasi-manajemen.html, Sistem Informasi Manajemen, diakses pada November 2014
+
+\bibitem[lima(2013)]{lima05}
+Dokumen online, www.informasiharian.com/sistem-manajemen-informasi-pengertian-dan-tujuan.html, Sistem, diakses pada November 2014
+
+\end{thebibliography}
+\addcontentsline{toc}{chapter}{DAFTAR PUSTAKA}
+%-----------------------------------------------------------------
+%Disini akhir masukan Daftar Pustaka
+%-----------------------------------------------------------------
+
+\end{document}

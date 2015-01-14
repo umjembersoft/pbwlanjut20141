@@ -1,0 +1,25 @@
+\select@language {bahasa}
+\select@language {bahasa}
+\contentsline {chapter}{ABSTRAK}{iii}
+\contentsline {chapter}{DAFTAR ISI}{iv}
+\select@language {bahasa}
+\contentsline {chapter}{\numberline {I}LATAR BELAKANG}{1}
+\contentsline {section}{\numberline {1.1}Latar Belakang Masalah}{1}
+\contentsline {section}{\numberline {1.2}Rumusan Masalah}{2}
+\contentsline {section}{\numberline {1.3}Batasan Masalah}{2}
+\contentsline {section}{\numberline {1.4}Maksud dan Tujuan}{2}
+\contentsline {section}{\numberline {1.5}Manfaat Program}{3}
+\contentsline {chapter}{\numberline {II}TINJAUAN PUSTAKA DAN DASAR TEORI}{4}
+\contentsline {section}{\numberline {2.1}Landasan Teori}{4}
+\contentsline {subsection}{\numberline {2.1.1}Sistem Informasi}{4}
+\contentsline {subsection}{\numberline {2.1.2}Akademik}{4}
+\contentsline {subsection}{\numberline {2.1.3}Web}{5}
+\contentsline {subsection}{\numberline {2.1.4}Database}{5}
+\contentsline {section}{\numberline {2.2}PHP}{6}
+\contentsline {section}{\numberline {2.3}MySQL}{6}
+\contentsline {section}{\numberline {2.4}Analisis sistem}{7}
+\contentsline {chapter}{\numberline {III}METODOLOGI}{8}
+\contentsline {section}{\numberline {3.1}Metode Pengumpulan Data}{8}
+\contentsline {section}{\numberline {3.2}Langkah Penyelesaian Masalah}{8}
+\contentsline {section}{\numberline {3.3}Jadwal Kegiatan}{10}
+\contentsline {chapter}{DAFTAR PUSTAKA}{11}

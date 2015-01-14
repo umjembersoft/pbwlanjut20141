@@ -1,0 +1,368 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.12)  14 DEC 2015 03:44
+entering extended mode
+**diah-latex.tex
+
+("J:\Semester_5\Rabu\TOPIK KHUSUS PEMROGRAMAN WEB LANJUT\3. Diah Silfiana - Lat
+ex\diah-latex.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+("J:\Semester_5\Rabu\TOPIK KHUSUS PEMROGRAMAN WEB LANJUT\3. Diah Silfiana - Lat
+ex\jtetiproposalskripsi.cls"
+Document Class: jtetiproposalskripsi 
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count79
+\U@D=\dimen102
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\bahasai.ldf"
+Language: bahasa 2008/03/15 v1.0l Bahasa Indonesia support from the babel syste
+m
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\indentfirst.sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count80
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count81
+\Gm@cntv=\count82
+\c@Gm@tempcnt=\count83
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count93
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen114
+\nom@tempdim=\dimen115
+\nomitemsep=\skip45
+)
+\@glossaryfile=\write3
+
+Writing glossary file diah-latex.glo 
+)
+("J:\Semester_5\Rabu\TOPIK KHUSUS PEMROGRAMAN WEB LANJUT\3. Diah Silfiana - Lat
+ex\diah-latex.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 35.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count94
+\scratchdimen=\dimen116
+\scratchbox=\box26
+\nofMPsegments=\count95
+\nofMParguments=\count96
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count97
+\MPscratchDim=\dimen117
+\MPnumerator=\count98
+\makeMPintoPDFobject=\count99
+\everyMPtoPDFconversion=\toks20
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* pass: disregarded the geometry package!
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=406.87448pt
+* \textheight=625.96062pt
+* \oddsidemargin=41.54121pt
+* \evensidemargin=41.54121pt
+* \topmargin=-25.6073pt
+* \headheight=12.0pt
+* \headsep=65.44142pt
+* \topskip=5.1654pt
+* \footskip=42.67912pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
+<gambar/logoku.png, id=1, 228.10219pt x 206.27063pt>
+File: gambar/logoku.png Graphic file (type png)
+ <use gambar/logoku.png>
+Package pdftex.def Info: gambar/logoku.png used on input line 37.
+(pdftex.def)             Requested size: 228.10161pt x 206.27011pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 39.
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <J:/Semester_5/Rabu/TOPIK 
+KHUSUS PEMROGRAMAN WEB LANJUT/3. Diah Silfiana - Latex/gambar/logoku.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 39.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+Overfull \hbox (15.46408pt too wide) in paragraph at lines 39--39
+ [][] 
+ []
+
+
+Overfull \hbox (15.46408pt too wide) in paragraph at lines 39--39
+ [][] 
+ []
+
+[2] [3
+
+]
+("J:\Semester_5\Rabu\TOPIK KHUSUS PEMROGRAMAN WEB LANJUT\3. Diah Silfiana - Lat
+ex\diah-latex.toc" [4
+
+])
+\tf@toc=\write4
+ [5]
+BAB I.
+[1
+
+
+] [2] [3]
+BAB II.
+[4
+
+]
+Overfull \hbox (5.66753pt too wide) in paragraph at lines 165--167
+[]\T1/ptm/m/n/12 Penggunaan se-bu-ah ba-sis da-ta me-mi-li-ki ber-ba-gai ma-cam
+ tu-ju-an, ada-pun tujuan-
+ []
+
+[5]
+Overfull \hbox (9.20619pt too wide) in paragraph at lines 188--190
+[]\T1/ptm/m/n/12 Oracle ada-lah Re-la-tio-nal Da-ta-ba-se Ma-na-ge-ment Sys-tem
+ (RDBMS) un-tuk meng-
+ []
+
+[6] [7]
+BAB III.
+[8
+
+]
+Overfull \hbox (5.51079pt too wide) in paragraph at lines 231--233
+[]\T1/ptm/m/n/12 Identifikasi ma-sa-lah di-la-kuk-an de-ngan ca-ra mem-pe-la-ja
+-ri masalah-masalah yang
+ []
+
+<gambar/KebutuhanData.png, id=47, 628.59843pt x 234.1247pt>
+File: gambar/KebutuhanData.png Graphic file (type png)
+
+<use gambar/KebutuhanData.png>
+Package pdftex.def Info: gambar/KebutuhanData.png used on input line 242.
+(pdftex.def)             Requested size: 369.88582pt x 137.7644pt.
+ [9]
+<gambar/KebutuhanProses.png, id=52, 484.81125pt x 360.59718pt>
+File: gambar/KebutuhanProses.png Graphic file (type png)
+
+<use gambar/KebutuhanProses.png>
+Package pdftex.def Info: gambar/KebutuhanProses.png used on input line 252.
+(pdftex.def)             Requested size: 369.88582pt x 275.12964pt.
+ [10 <J:/Semester_5/Rabu/TOPIK KHUSUS PEMROGRAMAN WEB LANJUT/3. Diah Silfiana -
+ Latex/gambar/KebutuhanData.png> <J:/Semester_5/Rabu/TOPIK KHUSUS PEMROGRAMAN W
+EB LANJUT/3. Diah Silfiana - Latex/gambar/KebutuhanProses.png>] <gambar/UseCase
+.png, id=57, 350.81062pt x 345.54094pt>
+File: gambar/UseCase.png Graphic file (type png)
+
+<use gambar/UseCase.png>
+Package pdftex.def Info: gambar/UseCase.png used on input line 261.
+(pdftex.def)             Requested size: 284.52756pt x 280.27151pt.
+ [11 <J:/Semester_5/Rabu/TOPIK KHUSUS PEMROGRAMAN WEB LANJUT/3. Diah Silfiana -
+ Latex/gambar/UseCase.png>]
+<gambar/ClassDiagram.png, id=61, 426.84468pt x 316.18124pt>
+File: gambar/ClassDiagram.png Graphic file (type png)
+
+<use gambar/ClassDiagram.png>
+Package pdftex.def Info: gambar/ClassDiagram.png used on input line 275.
+(pdftex.def)             Requested size: 341.43306pt x 252.93086pt.
+
+<gambar/jadwal.png, id=62, 526.21594pt x 214.55156pt>
+File: gambar/jadwal.png Graphic file (type png)
+ <use gambar/jadwal.png>
+Package pdftex.def Info: gambar/jadwal.png used on input line 286.
+(pdftex.def)             Requested size: 369.88582pt x 150.8169pt.
+
+[12 <J:/Semester_5/Rabu/TOPIK KHUSUS PEMROGRAMAN WEB LANJUT/3. Diah Silfiana - 
+Latex/gambar/ClassDiagram.png> <J:/Semester_5/Rabu/TOPIK KHUSUS PEMROGRAMAN WEB
+ LANJUT/3. Diah Silfiana - Latex/gambar/jadwal.png>] [13
+
+]
+("J:\Semester_5\Rabu\TOPIK KHUSUS PEMROGRAMAN WEB LANJUT\3. Diah Silfiana - Lat
+ex\diah-latex.aux") ) 
+Here is how much of TeX's memory you used:
+ 2845 strings out of 493921
+ 37971 string characters out of 3147260
+ 101416 words of memory out of 3000000
+ 6088 multiletter control sequences out of 15000+200000
+ 21041 words of font info for 37 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 34i,8n,21p,1864b,248s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.e
+nc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/urw/times/utmri8a.pfb>
+Output written on diah-latex.pdf (18 pages, 238703 bytes).
+PDF statistics:
+ 81 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+

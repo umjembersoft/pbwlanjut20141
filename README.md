@@ -1,4 +1,4 @@
-# pbwlanjut20141
+# Pbwlanjut20141
 Merupakan repository yang berisi proposal tugas akhir mahasiswa jurusan Manajemen Informatika Universitas Muhammadiyah Jember
 
 # Deskripsi Singkat

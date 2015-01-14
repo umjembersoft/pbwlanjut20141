@@ -4,7 +4,9 @@ Merupakan repository yang berisi proposal tugas akhir mahasiswa jurusan Manajeme
 # Deskripsi Singkat
 Pbwlanjut20141 (Topik Khusus Pemrograman Web Lanjut) merupakan repository yang digunakan untuk menyimpan softcopy proposal tugas akhir dari mahasiswa yang mengikuti MK tersebut. Proposal tugas akhir yang diupload pada repository ini ditulis menggunakan LATEX. Repository ini akan kami usahakan selalu update setiap tahunnya sesuai dengan tahun ajaran yang berlaku. 
 
-# List nama mahasiswa yang sudah mengumpulkan proposal tugas akhir (softcopy dan hardcopy)
+# List Proposal 
+Berikut ini merupakan list nama mahasiswa yang sudah mengumpulkan proposal tugas akhir (softcopy dan hardcopy) :
+
 1. Ade Muchtar - Sistem Informasi Perpustakaan Berbasis Web Pada SMP N 1 Bangsalsari
 2. Aji Dwi Kusman - Sistem Pengolah Data Pegawai di PTPN XII Afdelling Gambiran
 3. Awalia Wahyu Juwita - Aplikasi Pengobatan Pasien Berbasis SMS Gateway
